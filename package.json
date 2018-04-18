@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhyek/vue-prevent-parent-scroll.git"
+    "url": "git+https://github.com/stique/vue-prevent-parent-scroll.git"
   },
   "keywords": [
     "vue",

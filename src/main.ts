@@ -8,6 +8,7 @@ export function install(Vue) {
             Math.abs(el.scrollTop - (el.scrollHeight - el.clientHeight)) <= 1 &&
             event.deltaY > 0)
         {
+          console.log(event)
           event.preventDefault()
         }
       }
